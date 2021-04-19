@@ -41,7 +41,3 @@ def resposta_exercicio(amostra):
     print ("O desvio padrão é igual a: ", desvio_padrao(amostra))
 
 resposta_exercicio(teste)
-
-kabung = [6,7,88,65, 34]
-
-resposta_exercicio(kabung)
